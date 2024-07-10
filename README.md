@@ -6,7 +6,7 @@
 <h4 align="center"> I'm a graduate in MCA from  Biju Pattanaik University of Technology, India. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 </h4>
 </a> </p>
-##  About Me 
+ About Me 
 
 - 🏢 I’m looking forward to work as a **Full Stack Web Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript,React, Redux-Toolkit, Node, Express, MongoDB, SQL**
